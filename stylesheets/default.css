@@ -1,0 +1,49 @@
+
+h1 {
+  text-align: center;
+  font-size: 6 em;
+  font-weight: bold;
+  font-family: Verdana;
+  color: black;
+  border-bottom: thick dotted #000000;
+}
+* {
+  background-color: #707070;
+}
+nav {
+display: inline;
+font-size: 2em;
+width: 50%;
+position: relative;
+margin: 12.5%
+}
+
+
+.vertical {
+  left: 1em;
+  color: white;
+}
+a:link {
+  color:white;
+  text-decoration: none;
+}
+a:visited {
+color: black;
+text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+  background-color: white;
+  color: black;
+}
+#main {
+  font-family: serif;
+  font-style: italic;
+  color: black;
+  width: 80%;
+  margin: 10%;
+
+}
+img {
+  top: 5%;
+}
