@@ -7,5 +7,6 @@ To be honest, I'm still having trouble understanding positioning and how it real
 
 What aspects of your design did you find easiest to implement? What was most difficult?
 Font and colors are probably the easiest. The hardest part for me is that I don't really have any design ideas. Everything I outlined in wireframe was pretty basic because I didn't have any other ideas. Positioning, padding, and margins continue to be challenging for me.
+
 What did you learn about adding and formatting elements with CSS in this challenge?
 I learned that I need a lot more practice with this. I also learned the importance of having organized HTML so you can create a stylesheet that does exactly what you want it to.s
