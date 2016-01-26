@@ -1,0 +1,11 @@
+
+
+#Check out my array
+list_of_favorites_array = ["dogs", "lemonade", "the Chicago Blackhawks", "coding"]
+
+puts list_of_favorites[1]
+
+#Check out my hash
+my_favorites_hash = {fav_animal: "dogs", fav_drink: "lemonade",fav_team: "the Chicago Blackhawks", fav_passtime: "coding"}
+
+my_favorites_hash[:fav_drink]
