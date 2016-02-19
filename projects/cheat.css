@@ -1,0 +1,40 @@
+/** {
+  color: black;
+}
+* {
+  background-color: white;
+}*/
+
+h1 {
+text-align: center;
+}
+p.one {
+- moz box-shadow: -5px -5px -5px -5px yellow;
+- webkit-box-shadow: -5px -5px -5px -5px yellow;
+box-shadow: -5px -5px -5px -5px yellow;
+}
+p.two {
+- moz box-shadow: -5px -5px -5px -5px #777777;
+- webkit-box-shadow: -5px -5px -5px -5px #777777;
+box-shadow: -5px -5px -5px -5px #777777;
+}
+p.three {
+- moz box-shadow: -5px -5px -5px -5px #777777;
+- webkit-box-shadow: -5px -5px -5px -5px #777777;
+box-shadow: -5px -5px -5px -5px #777777;
+}
+p.four {
+- moz box-shadow: -5px -5px -5px -5px #777777;
+- webkit-box-shadow: -5px -5px -5px -5px #777777;
+box-shadow: -5px -5px -5px -5px #777777;
+}
+p.five {
+- moz box-shadow: -5px -5px -5px -5px #777777;
+- webkit-box-shadow: -5px -5px -5px -5px #777777;
+box-shadow: -5px -5px -5px -5px #777777;
+}
+p.six {
+- moz box-shadow: -5px -5px -5px -5px #777777;
+- webkit-box-shadow: -5px -5px -5px -5px #777777;
+box-shadow: -5px -5px -5px -5px #777777;
+}
